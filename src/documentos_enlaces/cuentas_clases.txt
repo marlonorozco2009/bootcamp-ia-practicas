@@ -1,0 +1,13 @@
+Gestión de cuentas @clases.edu.sv
+
+Problema: Olvidé la contraseña de mi correo @clases.edu.sv (estudiante)
+Solución: El estudiante debe ingresar al enlace http://restablecer.clases.edu.sv. Esto solo aplica a estudiantes con matrícula activa.
+
+Problema: Soy docente, necesito cambiar mi contraseña.
+Solución: El docente debe ingresar a http://docentes.clases.edu.sv/restablecer para actualizar sus credenciales.
+
+Problema: No sé mi NIE (estudiante)
+Solución: El estudiante puede consultar su NIE en el sitio http://consulta.mined.gob.sv/nie
+
+Problema: Mi cuenta de docente está bloqueada.
+Solución: Debe contactar a la Mesa de Ayuda al 2990-6000 o al correo de Formación Docente (formacion.docente@mined.gob.sv) para la creación o configuración de cuentas de docentes.

@@ -1,0 +1,17 @@
+# Ignorar carpetas de Datos, Modelos y Salidas
+/data/
+/models/
+/out/
+
+# Ignorar CUALQUIER entorno virtual (la causa del error)
+.venv/
+src/.venv/
+*.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
